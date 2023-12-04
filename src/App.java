@@ -6,6 +6,7 @@ public class App {
         System.out.println("i'm the pizzaman!!!!!!!");
         System.err.println("idoasido");
         System.out.println("pizzaman 2 il ritorno");
+        System.err.println("asdasd");
 
     }
 }
